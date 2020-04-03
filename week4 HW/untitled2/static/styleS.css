@@ -1,0 +1,81 @@
+ @import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+
+        .headline {
+            font-size: 24px;
+            font-weight: 2px;
+            margin: 15px 0px;
+        }
+
+        hr.divis {
+
+            border: 1px;
+        }
+
+        .description {
+            color: #7a7a7a;
+            font-size: 17px;
+            margin: 5px 0px;
+
+        }
+
+        .price {
+            text-align: right;
+            color: #ed4856;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .unit {
+            color: black;
+            font-size: 14;
+            font-weight: normal;
+        }
+
+        .wrap {
+            width: 500px;
+            margin: 20px auto 70px auto;
+            font-family: 'Noto Sans KR', sans-serif;
+        }
+
+        .wrap2 {
+            display: flex;
+            flex-direction: row;
+            font-size: 15px;
+        }
+
+        .wrap3 {
+            display: flex;
+            flex-direction: row;
+            font-size: 15px;
+            margin: 6px 0px 6px 0px;
+        }
+
+        .info {
+            width: 120px;
+            padding: 3px 0px 3px 0px;
+        }
+
+        .const {
+            padding: 3px 0px 3px 0px;
+        }
+
+        .amount {
+            width: 205px;
+            height: 26px;
+        }
+
+        .headInfo {
+            font-size: 19px;
+            font-weight: bold;
+            color: #404040;
+            margin: 20px 0px 0px 0px;
+        }
+
+        #orderList {
+            margin: 20px 0px 0px 0px;
+        }
+
+        .orderN {
+            color: #ed4856;
+            font-size: 13px;
+        }
